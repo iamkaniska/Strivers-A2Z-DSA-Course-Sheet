@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 /* symmetricalBinaryTree */
 
+=======
+>>>>>>> 793a17064b644d2db0863d0dd9854a8346679339
 import java.util.Scanner;
 
 class TreeNode {
